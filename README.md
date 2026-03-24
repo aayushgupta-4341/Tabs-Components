@@ -38,7 +38,7 @@ This project demonstrates how to create interactive UI components with smooth ta
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/0817218a-740b-4cef-ab1f-d4b3a7513638" />
 
 ---
 
