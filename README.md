@@ -13,7 +13,7 @@ This project demonstrates how to create interactive UI components with smooth ta
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/your-username/Tabs-Component
+[🔗 https://github.com/your-username/Tabs-Component](https://github.com/aayushgupta-4341/Tabs-Components.git)
 
 ---
 
