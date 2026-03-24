@@ -7,7 +7,7 @@ This project demonstrates how to create interactive UI components with smooth ta
 
 ## 🚀 Live Demo
 
-🔗 https://your-netlify-link-here
+[🔗 https://your-netlify-link-here](https://components-of-tabs.netlify.app/)
 
 ---
 
